@@ -8,7 +8,7 @@ Systems Administrator & DevOps Engineer 🚀
 
 > "It's not what happens to you, but how you react to it that matters." — Epictetus
 
-I have a strong desire to continually learn and grow because I firmly believe that there is always room for improvement and new knowledge to be gained. I am open to embracing new challenges and eagerly aim to expand my skillset. Learning is an inherent passion of mine, and I feel genuinely excited about the prospect of acquiring new skills and knowledge in any field or domain.
+I have a strong desire to continually learn and grow because I firmly believe that there is always room for improvement and new knowledge to be gained. I am open to embracing new challenges and eagerly aim to expand my skillset. Learning is a passion of mine, and I feel genuinely excited about the prospect of acquiring new skills and knowledge in all tech related.
 
 ## 🛠️ Tech Stack
 
