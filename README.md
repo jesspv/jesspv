@@ -51,5 +51,5 @@ Highly available MySQL with automated backups and staging environment
 ---
 
 <div align="center">
-*💡 For more details about my work and experience, visit [my website](https://meetjessv.com)*
+*💡 For more details about my work and experience, visit https://meetjessv.com
 </div>
