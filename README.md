@@ -25,12 +25,12 @@ I have a strong desire to continually learn and grow because I firmly believe th
 
 ## 🚀 Latest Projects
 
-### 🔒 Secure Docker Pipeline
-Automated Docker pipeline with security scanning and staged deployments  
+### 🗄️ azure-migration
+End-to-end migration of on-premise infrastructure to Azure cloud using Infrastructure as Code.  
 [View Project →](your-link-here)
 
-### 🗄️ HA MySQL Setup
-Highly available MySQL with automated backups and staging environment  
+### 🏠 Advanced Homelab Infrastructure
+Comprehensive homelab setup with Proxmox virtualization, OPNsense networking, and secure connectivity.  
 [View Project →](your-link-here)
 
 ## 📫 Let's Connect
